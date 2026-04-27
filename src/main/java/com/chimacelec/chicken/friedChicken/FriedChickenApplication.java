@@ -1,4 +1,4 @@
-package com.chimacelec.friedChicken;
+package com.chimacelec.chicken.friedChicken;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
